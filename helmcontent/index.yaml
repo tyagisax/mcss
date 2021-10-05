@@ -3,12 +3,12 @@ entries:
   social-distancing-retail:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-10-05T14:05:20.080108494+05:30"
+    created: "2021-10-05T14:32:33.936254407+05:30"
     description: A Helm chart for Kubernetes
     digest: c6ccdce2f6f4d54e3c444f8473fbce322700a2e9340b00628a3a6c849986403a
     name: social-distancing-retail
     type: application
     urls:
-    - https://raw.githubusercontent.com/tyagisax/tyagisax/main/social-distancing-retail-0.1.0.tgz
+    - https://raw.githubusercontent.com/tyagisax/mcss/main/social-distancing-retail-0.1.0.tgz
     version: 0.1.0
-generated: "2021-10-05T14:05:20.07665619+05:30"
+generated: "2021-10-05T14:32:33.933565252+05:30"
